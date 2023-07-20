@@ -1,0 +1,1 @@
+This project is my notes and solution for content in The Art Of Computer Programming (TAOCP) book series by Donald E Knuth.
